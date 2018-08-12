@@ -1,0 +1,7 @@
+<NotepadPlus>
+    <Project name="Bomber Game">
+        <Folder name="images" />
+        <Folder name="sound" />
+        <File name="bomber.html" />
+    </Project>
+</NotepadPlus>
